@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: lightblue;
+    
+}
+
+.container{
+    width: 500px;
+    height: 500px;
+    background-color :white;
+    border-radius: 15px;
+}
+
+.text{
+    width: 500px;
+    height: 350px;
+    text-align: center;
+}
+.btn{
+    width: 200px;
+    height: 20px;
+}
